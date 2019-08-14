@@ -32,10 +32,11 @@
         noData: '找不到结果!',
         depth: 2
       },
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md', //防止意外回退
-        '/.*/_navbar.md': '/_navbar.md' //防止意外回退
-      },
+      // 自动追寻到根目录下的_sidebar.md
+      // alias: {
+      //   '/.*/_sidebar.md': '/_sidebar.md', //防止意外回退
+      //   '/.*/_navbar.md': '/_navbar.md' //防止意外回退
+      // },
       // disqus评论系统支持
       // disqus: 'shortname',
 
@@ -55,11 +56,11 @@
               '[<img class="emoji" src="https://github.githubassets.com/images/icons/emoji/memo.png" alt="memo" /> 编辑文档](' +
               url + ')\n';
             var footer = [
-              // '<hr>',
-              // '<footer>',
-              // '<span><a href="https://github.com/AWhiteMouse/Perfect-Article" target="_blank">hbuecx</a> &copy;2019.</span>',
-              // '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
-              // '</footer>'
+              '<hr>',
+              '<footer>',
+              '<span><a href="https://github.com/AWhiteMouse/Perfect-Article" target="_blank">hbuecx</a> &copy;2019.</span>',
+              '<span>Proudly published with <a href="https://docsify.js.org/#/zh-cn/" target="_blank">docsify</a>.</span>',
+              '</footer>'
             ].join('');
 
             return editHtml + html + footer;

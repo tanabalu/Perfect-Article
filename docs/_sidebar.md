@@ -16,8 +16,3 @@
   * [Project manage](learn/项目管理.md)
   * [网络](learn/网络.md)
   * [其他](learn/other.md)
-* 踩坑指南
-  * CSS篇
-  * JS篇
-  * 其他
-    * [npm 报错This is probably not a problem with npm. There is likely additional logging output above.](https://www.jianshu.com/p/736990115561)
