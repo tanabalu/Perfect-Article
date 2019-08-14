@@ -12,7 +12,7 @@
 <style>
     .timeline-container {
         width: 100%;
-        padding-left: 20px;
+        padding-left: 10px;
         position: relative;
         color: #fff;
     }
