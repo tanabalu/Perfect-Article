@@ -32,6 +32,10 @@
         noData: '找不到结果!',
         depth: 2
       },
+      // 通过 {docsify-updated} 变量显示文档更新日期
+      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+      // 小屏设备下合并导航栏到侧边栏。
+      mergeNavbar: true,
       // 自动追寻到根目录下的_sidebar.md
       // alias: {
       //   '/.*/_sidebar.md': '/_sidebar.md', //防止意外回退
@@ -54,7 +58,7 @@
             var url = 'https://github.com/AWhiteMouse/Perfect-Article/tree/master/docs/' + vm.route.file;
             var editHtml =
               '[<img class="emoji" src="https://github.githubassets.com/images/icons/emoji/memo.png" alt="memo" /> 编辑文档](' +
-              url + ')\n';
+              url + ')\n\n' + '最后编辑时间：{docsify-updated}\n';
             var footer = [
               '<hr>',
               '<footer>',
