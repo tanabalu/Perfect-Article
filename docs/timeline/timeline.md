@@ -3,6 +3,13 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/08/15</div>
+            <div class="timeline-content">a.b.c.d 和 a['b']['c']['d']，哪个性能更高？</div>
+            <div class="timeline-content">.比[]性能高</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/14</div>
             <div class="timeline-content">在markdown中编辑html</div>
         </div>
