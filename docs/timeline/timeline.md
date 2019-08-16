@@ -3,9 +3,14 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/08/16</div>
+            <div class="timeline-content">配置Jenkins发布项目到指定目录。另外，Jenkins已经实现自动发布。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/15</div>
-            <div class="timeline-content">a.b.c.d 和 a['b']['c']['d']，哪个性能更高？</div>
-            <div class="timeline-content">.比[]性能高</div>
+            <div class="timeline-content">更新Perfect-Article</div>
         </div>
     </div>
     <div class="timeline-body">
