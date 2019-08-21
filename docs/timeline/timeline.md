@@ -3,6 +3,12 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/08/21</div>
+            <div class="timeline-content">从昨晚到今天凌晨两点：尝试在Jenkins上配置Maven项目，未成功。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/20</div>
             <div class="timeline-content">codepen：<a href="https://codepen.io/awhitemouse/pen/ZEzpPgN" target="_blank">CSS评分</a>。</div>
         </div>
