@@ -4,7 +4,9 @@
     <div class="timeline-body">
         <div class="timeline-main">
             <div class="timeline-time">2019/08/23</div>
-            <div class="timeline-content">解决了calculator项目Java代码不能发布到github的问题。解决办法是新建了一个文件夹，将代码文件拷贝到新文件夹中，然后在新文件夹跟远程建立连接，把本地代码强制推送到远程，覆盖掉远程的代码。虽然解决了问题，但是我还是没发现在之前的文件夹中java代码没有上传是个什么原因。</div>
+            <div class="timeline-content">1、解决了calculator项目Java代码不能发布到github的问题。</div>
+            <div class="timeline-content">解决办法是新建了一个文件夹，将代码文件拷贝到新文件夹中，然后在新文件夹跟远程建立连接，把本地代码强制推送到远程，覆盖掉远程的代码。虽然解决了问题，但是我还是没发现在之前的文件夹中java代码没有上传是个什么原因。</div>
+            <div class="timeline-content">2、修改了jenkins的配置，Maven项目在jenkins上构建成功。</div>
         </div>
     </div>
     <div class="timeline-body">
