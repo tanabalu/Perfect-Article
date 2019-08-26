@@ -3,6 +3,13 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/08/25</div>
+            <div class="timeline-content">1、尝试配置钩子程序自动触发jenkins构建，未成功，于是将配置复原。</div>
+            <div class="timeline-content">2、更新WxCool：添加节流防抖函数；优化Hapi的封装；添加携带promise的请求封装。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/24</div>
             <div class="timeline-content">完成了jenkins自动部署war包到tomcat的功能。</div>
         </div>
