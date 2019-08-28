@@ -3,6 +3,15 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/08/28</div>
+            <div class="timeline-content">1、拆分root和calculator，拆分完后发现有问题。</div>
+            <div class="timeline-content">拆分后发现root没有war包，也就不能被自动部署到tomcat中。同时，calculator也因为路径问题而无法访问。</div>
+            <br/>
+            <div class="timeline-content">前些天一直在做书院首页的需求，一直到昨天晚上上线，我才算心安了。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/25</div>
             <div class="timeline-content">1、尝试配置钩子程序自动触发jenkins构建，未成功，于是将配置复原。</div>
             <div class="timeline-content">2、更新WxCool：添加节流防抖函数；优化Hapi的封装；添加携带promise的请求封装。</div>
