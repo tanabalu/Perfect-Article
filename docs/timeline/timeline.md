@@ -127,4 +127,8 @@
     .timeline-content {
         margin-top: 5px;
     }
+    
+    .timeline-content a {
+        color: greenyellow !important;
+    }
 </style>
