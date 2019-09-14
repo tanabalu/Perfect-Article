@@ -3,6 +3,13 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/09/14</div>
+            <div class="timeline-content">1、把弹窗组件加到wxcool中，待demo测试。</div>
+            <div class="timeline-content">2、配置github图床。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/08/29</div>
             <div class="timeline-content">codepen：<a href="https://codepen.io/awhitemouse/pen/zYOzZKa" target="_blank">CSS单选框</a></div>
         </div>
