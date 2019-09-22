@@ -3,6 +3,15 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/09/22</div>
+            <div class="timeline-content">问：react里的Link标签和a标签有什么区别？</div>
+            <div class="timeline-content">答：</div>
+            <div class="timeline-content">1、Link标签如果绑定了onClick事件，就会默认组件跳转事件；</div>
+            <div class="timeline-content">2：Link的跳转是使用hash跳转，不是页面跳转，只会更新对应的Router，不会刷新整个页面。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/09/14</div>
             <div class="timeline-content">1、把弹窗组件加到wxcool中，待demo测试。</div>
             <div class="timeline-content">2、配置github图床。</div>
