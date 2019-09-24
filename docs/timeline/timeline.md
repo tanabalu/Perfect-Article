@@ -3,7 +3,14 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
-            <div class="timeline-time">2019/09/22</div>
+            <div class="timeline-time">2019/09/24</div>
+            <div class="timeline-content">1、跟着教程学习用react16、next.js搭建博客，预计可能还会用到koa；</div>
+            <div class="timeline-content">2：安装Gridea，准备以后遇到困难，将解决问题的过程发布在这里。内容还需要再手动同步一下。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/23</div>
             <div class="timeline-content">问：如何解决首页白屏问题？</div>
             <div class="timeline-content">答：</div>
             <div class="timeline-content">1、webpack打包减少js体积；按需加载；</div>
@@ -13,7 +20,7 @@
     </div>
     <div class="timeline-body">
         <div class="timeline-main">
-            <div class="timeline-time">2019/09/23</div>
+            <div class="timeline-time">2019/09/22</div>
             <div class="timeline-content">问：react里的Link标签和a标签有什么区别？</div>
             <div class="timeline-content">答：</div>
             <div class="timeline-content">1、Link标签如果绑定了onClick事件，就会默认组件跳转事件；</div>
