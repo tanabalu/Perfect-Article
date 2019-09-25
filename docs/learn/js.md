@@ -7,4 +7,5 @@
 - [ ] [apply()与call()的区别](https://www.cnblogs.com/lengyuehuahun/p/5643625.html)
 
 ## ES6
+- [ ] [《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)
 - [ ] [Generator生成器函数](https://www.cnblogs.com/imwtr/p/5913294.html)
