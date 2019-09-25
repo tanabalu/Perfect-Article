@@ -3,9 +3,18 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/09/25</div>
+            <div class="timeline-content">1、学习apply和call：<a href="https://juejin.im/post/5d8b3521e51d457825210a1a" target="_blank">帮你快速理解apply和call</a>；
+            </div>
+            <div class="timeline-content">2、学习<a href="http://es6.ruanyifeng.com/#docs/module" target="_blank">前端模块化</a>；</div>
+            <div class="timeline-content">3、手写eventProxy.js。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/09/24</div>
             <div class="timeline-content">1、跟着教程学习用react16、next.js搭建博客，预计可能还会用到koa；</div>
-            <div class="timeline-content">2：安装Gridea，准备以后遇到困难，将解决问题的过程发布在这里。内容还需要再手动同步一下。</div>
+            <div class="timeline-content">2、安装Gridea，准备以后遇到困难，将解决问题的过程发布在这里。内容还需要再手动同步一下。</div>
         </div>
     </div>
     <div class="timeline-body">
