@@ -4,8 +4,13 @@
     <div class="timeline-body">
         <div class="timeline-main">
             <div class="timeline-time">2019/09/25</div>
-            <div class="timeline-content">1、学习apply和call：<a href="https://juejin.im/post/5d8b3521e51d457825210a1a" target="_blank">帮你快速理解apply和call</a>；
-            </div>
+            <div class="timeline-content">优化WxCool代码</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/25</div>
+            <div class="timeline-content">1、学习apply和call：<a href="https://juejin.im/post/5d8b3521e51d457825210a1a" target="_blank">帮你快速理解apply和call</a>；</div>
             <div class="timeline-content">2、学习<a href="http://es6.ruanyifeng.com/#docs/module" target="_blank">前端模块化</a>；</div>
             <div class="timeline-content">3、手写eventProxy.js。</div>
         </div>
