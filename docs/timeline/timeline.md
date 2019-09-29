@@ -3,8 +3,21 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/09/29</div>
+            <div class="timeline-content">1、刷了三道算法题，中低难度的；</div>
+            <div class="timeline-content">2、搭建了安装WxCool的脚手架。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/27</div>
+            <div class="timeline-content">优化WxCool代码，主要是讲gulpfile.js写法升级。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/09/26</div>
-            <div class="timeline-content">优化WxCool代码</div>
+            <div class="timeline-content">升级WxCool依赖</div>
         </div>
     </div>
     <div class="timeline-body">
