@@ -3,6 +3,12 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/10/1</div>
+            <div class="timeline-content">优化<a href="https://www.npmjs.com/package/create-wxcool-cli" target="_blank">create-wxcool-cli</a>的脚手架。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/09/29</div>
             <div class="timeline-content">1、刷了三道算法题，中低难度的；</div>
             <div class="timeline-content">2、搭建了安装WxCool的脚手架。</div>
