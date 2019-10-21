@@ -3,6 +3,12 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/10/20</div>
+            <div class="timeline-content">优化聊天室。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/10/1</div>
             <div class="timeline-content">优化<a href="https://www.npmjs.com/package/create-wxcool-cli" target="_blank">create-wxcool-cli</a>的脚手架。</div>
         </div>
