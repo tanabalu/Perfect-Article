@@ -3,8 +3,14 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/10/21</div>
+            <div class="timeline-content">学习《Nodejs入门》</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/10/20</div>
-            <div class="timeline-content">优化聊天室。</div>
+            <div class="timeline-content">优化聊天室：加入聊天机器人；优化样式</div>
         </div>
     </div>
     <div class="timeline-body">
