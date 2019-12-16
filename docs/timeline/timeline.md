@@ -3,9 +3,60 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/10/22</div>
+            <div class="timeline-content">编写《Nodejs入门》demo：<a href="https://github.com/AWhiteMouse/-NodeJs-" target="_blank">Github地址</a></div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/10/21</div>
+            <div class="timeline-content">学习《Nodejs入门》</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/10/20</div>
+            <div class="timeline-content">优化聊天室：加入聊天机器人；优化样式</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/10/1</div>
+            <div class="timeline-content">优化<a href="https://www.npmjs.com/package/create-wxcool-cli" target="_blank">create-wxcool-cli</a>的脚手架。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/29</div>
+            <div class="timeline-content">1、刷了三道算法题，中低难度的；</div>
+            <div class="timeline-content">2、搭建了安装WxCool的脚手架。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/27</div>
+            <div class="timeline-content">优化WxCool代码，主要是讲gulpfile.js写法升级。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/26</div>
+            <div class="timeline-content">升级WxCool依赖</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/09/25</div>
+            <div class="timeline-content">1、学习apply和call：<a href="https://juejin.im/post/5d8b3521e51d457825210a1a" target="_blank">帮你快速理解apply和call</a>；</div>
+            <div class="timeline-content">2、学习<a href="http://es6.ruanyifeng.com/#docs/module" target="_blank">前端模块化</a>；</div>
+            <div class="timeline-content">3、手写eventProxy.js。</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/09/24</div>
             <div class="timeline-content">1、跟着教程学习用react16、next.js搭建博客，预计可能还会用到koa；</div>
-            <div class="timeline-content">2：安装Gridea，准备以后遇到困难，将解决问题的过程发布在这里。内容还需要再手动同步一下。</div>
+            <div class="timeline-content">2、安装Gridea，准备以后遇到困难，将解决问题的过程发布在这里。内容还需要再手动同步一下。</div>
         </div>
     </div>
     <div class="timeline-body">
