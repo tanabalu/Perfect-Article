@@ -3,6 +3,18 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2019/12/23</div>
+            <div class="timeline-content">学习egg文档：<a href="https://eggjs.org/zh-cn/intro/" target="_blank">文档地址</a></div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
+            <div class="timeline-time">2019/12/22</div>
+            <div class="timeline-content">学习Koa2并编写demo：<a href="https://www.bilibili.com/video/av36421651" target="_blank">学习视频地址</a></div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/10/22</div>
             <div class="timeline-content">编写《Nodejs入门》demo：<a href="https://github.com/AWhiteMouse/-NodeJs-" target="_blank">Github地址</a></div>
         </div>
