@@ -3,6 +3,12 @@
 <div class="timeline-container">
     <div class="timeline-body">
         <div class="timeline-main">
+            <div class="timeline-time">2020/02/01</div>
+            <div class="timeline-content">学习react hooks：<a href="http://hbuecx.com/post/react-hooks-xue-xi-bi-ji/" target="_blank">React Hooks学习笔记</a>useState和useEffect部分</div>
+        </div>
+    </div>
+    <div class="timeline-body">
+        <div class="timeline-main">
             <div class="timeline-time">2019/12/23</div>
             <div class="timeline-content">学习egg文档：<a href="https://eggjs.org/zh-cn/intro/" target="_blank">文档地址</a></div>
         </div>
