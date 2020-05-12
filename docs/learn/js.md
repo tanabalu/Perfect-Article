@@ -14,6 +14,7 @@
 
 ## TS
 
+- [ ] [TypeScript视频教程](https://www.bilibili.com/video/BV1yt411e7xV)
 - [ ] [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 ## React
