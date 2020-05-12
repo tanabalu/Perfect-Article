@@ -16,7 +16,3 @@
 
 - [ ] [TypeScript视频教程](https://www.bilibili.com/video/BV1yt411e7xV)
 - [ ] [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-
-## React
-
-- [ ] [React 中的高阶组件及其应用场景](https://juejin.im/post/5c72b97de51d4545c66f75d5)
