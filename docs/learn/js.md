@@ -4,6 +4,7 @@
 - [ ] [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 - [ ] [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
 - [ ] [apply()与call()的区别](https://www.cnblogs.com/lengyuehuahun/p/5643625.html)
+- [x] [JS的{} + {}与{} + []的结果是什么？](https://segmentfault.com/a/1190000008038678)
 
 ## ES6
 
