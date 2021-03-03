@@ -9,6 +9,7 @@
 - [ ] [自己搭建SS/SSR或v2ray或brook服务器教程](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [ ] [VULTR（国外服务器厂商，服务器价格比较低）](https://my.vultr.com/)
 
-## 报告、复盘
+## 报告、复盘、答辩
 
 - [ ] [工作中个人缺点和不足](http://www.qunzou.com/gongzuo/8204.html)
+- [ ] [崭露你的锋芒--如何进行有效的技术答辩](https://zhuanlan.zhihu.com/p/22844782)
