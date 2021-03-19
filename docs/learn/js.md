@@ -5,6 +5,7 @@
 - [ ] [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
 - [ ] [apply()与call()的区别](https://www.cnblogs.com/lengyuehuahun/p/5643625.html)
 - [x] [JS的{} + {}与{} + []的结果是什么？](https://segmentfault.com/a/1190000008038678)
+- [ ] [JavaScript闭包（内存泄漏、溢出以及内存回收），超直白解析](https://www.cnblogs.com/mingo233/p/13582147.html)
 
 ## ES6
 
