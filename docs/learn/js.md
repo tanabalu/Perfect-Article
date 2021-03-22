@@ -6,6 +6,7 @@
 - [ ] [apply()与call()的区别](https://www.cnblogs.com/lengyuehuahun/p/5643625.html)
 - [x] [JS的{} + {}与{} + []的结果是什么？](https://segmentfault.com/a/1190000008038678)
 - [ ] [JavaScript闭包（内存泄漏、溢出以及内存回收），超直白解析](https://www.cnblogs.com/mingo233/p/13582147.html)
+- [ ] [终于有人把正向代理和反向代理解释的明明白白了！](https://cloud.tencent.com/developer/article/1418457)
 
 ## ES6
 
