@@ -7,6 +7,7 @@
 - [x] [JS的{} + {}与{} + []的结果是什么？](https://segmentfault.com/a/1190000008038678)
 - [ ] [JavaScript闭包（内存泄漏、溢出以及内存回收），超直白解析](https://www.cnblogs.com/mingo233/p/13582147.html)
 - [ ] [终于有人把正向代理和反向代理解释的明明白白了！](https://cloud.tencent.com/developer/article/1418457)
+- [ ] [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.cn/post/6844903601416978439)
 
 ## ES6
 

@@ -1,6 +1,8 @@
 {
     "cSpell.ignoreWords": [
+        "defineproperty",
         "mvvm",
-        "proto"
+        "proto",
+        "proxy"
     ]
 }
