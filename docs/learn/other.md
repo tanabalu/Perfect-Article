@@ -14,3 +14,7 @@
 - [ ] [工作中个人缺点和不足](http://www.qunzou.com/gongzuo/8204.html)
 - [ ] [崭露你的锋芒--如何进行有效的技术答辩](https://zhuanlan.zhihu.com/p/22844782)
 - [ ] [如何做一场高质量的分享](https://mp.weixin.qq.com/s/ZcHkIs00kVeyZ2-7u3cg5A)
+
+## 简历
+
+- [ ] [一个优秀的前端工程师简历应该是怎样的？](https://www.zhihu.com/question/21520021/answer/532895608)
