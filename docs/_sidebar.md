@@ -5,6 +5,7 @@
 * [工具](learn/工具.md)
 * [浏览器](learn/浏览器.md)
 * [设计模式](learn/设计模式.md)
+* [算法](learn/算法.md)
 * [项目管理](learn/项目管理.md)
 * [网络](learn/网络.md)
 * [其他](learn/other.md)
